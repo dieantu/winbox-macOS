@@ -25,5 +25,5 @@ Note: If you are running macOS Big Sur, instead of "nano ~/.zprofile", you have 
  ```
 wine64 "/Applications/winbox64.exe"
 ```
-9. Move the automator script downloaded in this repository to /Applications like the winbox.exe file.
+9. Move the automator script downloaded in this repository to /Applications/ like the winbox.exe file.
 10. Done!
